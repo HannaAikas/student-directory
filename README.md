@@ -1,4 +1,5 @@
 # Student Directory #
+## Precourse Week 4 Exercise - Command Line and Version Control ##
 
 The student directory script allows you to manage the list of students enrolled at Villains Academy
 
